@@ -1,0 +1,108 @@
+.projects-container {
+    max-width: 900px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .projects-container h1 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+  }
+  
+  .projects-container p {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    margin-bottom: 20px;
+  }
+  
+  /* Liste des projets */
+  .projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  /* Carte de projet */
+  .project-card {
+    background: #ecf0f1;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .project-card h2 {
+    color: #3498db;
+    margin-bottom: 10px;
+  }
+  
+  .project-card p {
+    font-size: 1rem;
+    color: #7f8c8d;
+  }
+  
+  .project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #3498db;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+  
+  .project-card a:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Section GitHub */
+.github-link {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background: #ecf0f1;
+    border-radius: 10px;
+  }
+  
+  .github-link h2 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .github-link p {
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin-bottom: 10px;
+  }
+  
+  /* Bouton vers GitHub */
+  .github-button {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #24292e;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+  
+  .github-button:hover {
+    background-color: #171b1f;
+  }
+
+  /* Image des projets */
+.project-image {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  margin: 10px 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+  
