@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dardeeet/Portfolio/static/css/main.48b4fae7.css",
+    "main.js": "/dardeeet/Portfolio/static/js/main.1deb2e0b.js",
+    "static/js/453.c189cfdf.chunk.js": "/dardeeet/Portfolio/static/js/453.c189cfdf.chunk.js",
+    "static/media/photo_sans_fond.png": "/dardeeet/Portfolio/static/media/photo_sans_fond.cc55a3c5f0357f86e2f1.png",
+    "static/media/CV_Lenny_DARDET.pdf": "/dardeeet/Portfolio/static/media/CV_Lenny_DARDET.c0043a80783329f3d236.pdf",
+    "static/media/web_crypto.png": "/dardeeet/Portfolio/static/media/web_crypto.5d5722b4a79d4b70caaf.png",
+    "static/media/guichet_bancaire.png": "/dardeeet/Portfolio/static/media/guichet_bancaire.1b8ca27bf39358611f77.png",
+    "static/media/cabinet_medical.png": "/dardeeet/Portfolio/static/media/cabinet_medical.760e802264a50d556009.png",
+    "static/media/suivi_formation.png": "/dardeeet/Portfolio/static/media/suivi_formation.f2d6b9379446baa58b54.png",
+    "index.html": "/dardeeet/Portfolio/index.html",
+    "main.48b4fae7.css.map": "/dardeeet/Portfolio/static/css/main.48b4fae7.css.map",
+    "main.1deb2e0b.js.map": "/dardeeet/Portfolio/static/js/main.1deb2e0b.js.map",
+    "453.c189cfdf.chunk.js.map": "/dardeeet/Portfolio/static/js/453.c189cfdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b4fae7.css",
+    "static/js/main.1deb2e0b.js"
+  ]
+}
