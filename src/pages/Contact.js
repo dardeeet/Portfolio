@@ -14,7 +14,7 @@ function Contact() {
         <p><strong>Email :</strong> <a href="mailto:lenny.dardet.corps@gmail.com">lenny.dardet.corps@gmail.com</a></p>
         <p><strong>Téléphone :</strong> <a href="tel:+33778151797">07 78 15 17 97</a></p>
         <p><strong>Adresse :</strong> 118 route de Narbonne, Résidence Clément Ader D33, 31400 Toulouse</p>
-        <p><strong>LinkedIn :</strong> <a href="www.linkedin.com/in/lenny-dardet-a1042a254">Ici</a></p>
+        <p><strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/lenny-dardet-a1042a254" target="_blank" rel="noopener noreferrer">Ici</a></p>
       </div>
 
       {/* Formulaire de contact (optionnel) */}
